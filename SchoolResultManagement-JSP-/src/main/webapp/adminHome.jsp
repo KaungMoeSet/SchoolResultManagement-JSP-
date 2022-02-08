@@ -1,11 +1,11 @@
 <%@include file="header.html"%>
 <!DOCTYPE html>
 <html>
-<title>DGI</title>
+<title>UCSY</title>
 <body>
 <img src="logo.png"  align="left"width="100" height="100">
-<center><img src="dgi.png" width="100" height="100">
-<img src="apj sir.png" align="right"  width="100" height="100"></center>
+<center><img src="UCSY.png" width="250" height="100">
+<img src="logo.png" align="right"  width="100" height="100"></center>
 <div class="w3-container">
   <div class="w3-bar w3-black">
     <button class="w3-bar-item w3-button tablink w3-red" onclick="openCity(event,'London')">Add New Student</button>
@@ -303,10 +303,9 @@
 
 </div>
     <hr class="new1">
-  <center><h5>Note: Any errors occur then contact BTech Days.
-Designed & Developed by BTech Days Team</h5></center>
+  <center><h5>Designed by BTech Days Team & Developed by Kaung Moe Set</h5></center>
   <hr class="new1">
-<center><h5>All Right Reserved @ BTech Days :: 2015-2020</h5></center> 
+<center><h5>All Right Reserved @Kaung Moe Set :: 2000-current</h5></center> 
   <hr class="new1">
 <br>
 </body>
