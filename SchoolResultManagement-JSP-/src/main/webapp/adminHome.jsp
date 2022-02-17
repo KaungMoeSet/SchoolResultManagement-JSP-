@@ -89,7 +89,7 @@
 						data-bs-toggle="dropdown"> Add New Student </a>		
 								<ul class="dropdown-menu">
 							<li>
-							<button class="w3-bar-item w3-button tablink dropdown-item" onclick="openCity(event,'Yangon')">First Year
+							<button class="w3-bar-item w3-button tablink dropdown-item" onclick="openCity(event,'Paris')">First Year
 							</button>
 							<li><a class="dropdown-item" href="#"> Computer Science
 									&raquo;</a>
